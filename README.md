@@ -203,3 +203,4 @@ biopython>=1.78
 
 **If you use this pipeline in your research, please cite**
 
+[![DOI](https://zenodo.org/badge/996823741.svg)](https://doi.org/10.5281/zenodo.17038515)
